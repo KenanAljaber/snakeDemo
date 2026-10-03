@@ -1,0 +1,6 @@
+{
+  "name": "buildra-project",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "test": "node --test" }
+}
