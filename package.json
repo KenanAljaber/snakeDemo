@@ -1,14 +1,6 @@
 {
-  "name": "multiplayer-lobby",
-  "version": "1.0.0",
-  "description": "Basic multiplayer lobby with player connections",
-  "main": "src/lobby.js",
-  "type": "module",
-  "scripts": {
-    "test": "node --test"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {}
+  "name": "buildra-project",
+  "private": true,
+  "type": "commonjs",
+  "scripts": { "test": "node --test" }
 }
